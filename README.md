@@ -6,7 +6,7 @@
 
 Software Engineer with around 5 years of experience in Cloud technologies like AWS & Azure. During the span of my professional career, I have accrued good experience on cloud platform from managing daily operations to deploying the infrastructures as code (IAC) to architecting the client requirements.(End to end)
 
-## PROFESSIONAL SYNOPSIS
+### PROFESSIONAL SYNOPSIS
 
 * I have gained experience on building client applications from scratch to hosting them on AWS environment using IAC. In this process we work on gathering information from  customers, understand their requirement, designing an architecture diagram, deploying the requirement on Development account and based on feed pushing the code to production environments.
 * Deployed python scripts to automate the day-to-day activities
@@ -15,7 +15,7 @@ Software Engineer with around 5 years of experience in Cloud technologies like A
 * I have working experience on Service-Now & Eye share tool for handling multiple customer VM’s.
 *	Good communication & interpersonal skills with proven abilities in resolving complex issues
 
-## Technical Expertise
+### Technical Expertise
 
 * DevOps tools: Terraform, CICD pipeline, Kubernetes, Jenkins & 
 * Scripting knowledge: Python, Shell, Yaml etc
