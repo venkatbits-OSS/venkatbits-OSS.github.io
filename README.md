@@ -56,7 +56,7 @@ Software Engineer with around 5 years of experience in Cloud technologies like A
 
 ## Personal Interests & Hobbies
 
-* Adventure Motorcycling
-* Trekking & Travelling
-* Photographying
-* Binge watching & listening to Music 
+* Adventure Motorcycling.
+* Trekking & Travelling.
+* Photographying.
+* Binge watching & listening to Music. 
