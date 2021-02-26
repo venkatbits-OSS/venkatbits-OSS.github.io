@@ -1,38 +1,9 @@
-## Venkata Ramana Paila
-Bits ID: 2020mt93078@wilp.bits-pilani.ac.in
+# Venkata Ramana Paila
+## Bits ID: 2020mt93078@wilp.bits-pilani.ac.in
 
-You can use the [editor on GitHub](https://github.com/venkatbits-OSS/venkatbits-OSS.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Profile
 
-### Markdown
+Software Engineer with around 5 years of experience in Cloud technologies like AWS & Azure. During the span of my professional career, I have accrued good experience on cloud technologies from managing daily operations to deploying the infrastructures as well as architecting the customers requirements.(End to end)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Aloha
-## Testing
-### The content
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/venkatbits-OSS/venkatbits-OSS.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
