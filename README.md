@@ -36,9 +36,9 @@ Software Engineer with around 5 years of experience in Cloud technologies like A
 
 ### Senior System Engineer, Cognizant July 2016 to May 2019
 
-* Have worked on AWS EC2, Cloud Watch Alarm, S3 bucket, IAM, RDS, Route 53 & ELB services.
 * Performing administrative tasks like taking AMI, patching the Linux and Windows servers.
 * Supporting clients full time during any kind of planned migration.
+* Have worked on AWS EC2, Cloud Watch Alarm, S3 bucket, IAM, RDS, Route 53 & ELB services.
 * Experienced with different server OS and storage technologies
 * Automating infrastructure with Terraform and creating CI/CD pipeline using Jenkins & GIT.
 * Hands-on experience of monitoring, logging and cost management in a cloud environment.
